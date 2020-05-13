@@ -22,3 +22,4 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 ## Grammar
 
 - The dash ('—') ('---' in LaTeX) has no spaces before or after.
+- Do not use " for quotes in LaTeX, but `` and ''

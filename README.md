@@ -1,7 +1,6 @@
 # Some rules to follow when writing a paper
-with Niklas
 
-Welcome! It seems you are writing a paper. Congratulations! 
+Welcome! It seems you are writing a paper with my supervision. Congratulations! (Although, we will see if you think it was worth congratulating you on that decision at the end).
 
 However, be sure to follow the following rules as it makes my life a whole lot easier!
 

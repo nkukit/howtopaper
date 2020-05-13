@@ -9,6 +9,11 @@ However, be sure to follow the following rules as it makes my life a whole lot e
   </a><br/>
 </p>
 
+## General Writing and Flow
+
+- Make sure you have a clear flow through your paper in general, but also each chapter in specific.
+- Refrain from using too many iterations like "First....Second....Third". It's okay to do this a few times, but it is lazy writing.
+
 ## Terminology
 
 - Always call the same things with the same term. E.g, if your central contribution is an <em>artifact</em>, always call it "artifact" (not software tool, not model, not anything else). Decide on what term fits your idea best and then stick to it.

@@ -33,5 +33,6 @@ However, be sure to follow the following rules as it makes my life a whole lot e
     <img src="https://media.giphy.com/media/SQgEr5ViRcXYs/giphy.gif" alt="Yoda">
   </a><br/>
 </p>
+
 - The dash ('—') ('---' in LaTeX) has no spaces before or after.
 - Do not use " for quotes in LaTeX, but `` and ''

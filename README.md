@@ -16,6 +16,7 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 - A scientific paper doesn't mean it takes rocket science to read it. Make it as easy as possible for the reader. Use short sentences, refrain from complicated sentence constructs (like you would do in German).
 - Make sure you have a clear flow through your paper in general, but also each chapter in specific.
 - Refrain from using too many iterations like "First....Second....Third". It's okay to do this a few times, but it is lazy writing.
+- Do not go below subsections (e.g. subsubsection), a 1.2.1 or 1.2.2.3 looks strange in a 20 page paper.
 
 ## Terminology
 

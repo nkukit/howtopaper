@@ -1,4 +1,5 @@
 # Some rules to follow when writing a paper
+with Niklas
 
 Welcome! It seems you are writing a paper. Congratulations! 
 

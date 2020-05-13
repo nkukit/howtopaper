@@ -17,6 +17,7 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 ## References
 
 - Try to use references only if you are either writing a statement which needs proof (nothing trivial) or you are naming examples. Try to use one core reference only for a statement, which is not too controversial. Only use multiple references when making examples or stating something controversial / provocative.
+- Use page references only if you are directly citing
 - Talking about references: Try to prefer sources from the same community / the top journals within this community. If you are submitting to a top journal, make sure to prefer sources from this very journal. Try to avoid self-referencing...at least until your manuscript gets accepted ;-)
 
 ## Grammar

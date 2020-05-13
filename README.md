@@ -28,7 +28,7 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 - Use page references only if you are directly citing
 - Talking about references: Try to prefer sources from the same community / the top journals within this community. If you are submitting to a top journal, make sure to prefer sources from this very journal. Try to avoid self-referencing...at least until your manuscript gets accepted ;-)
 
-## Grammar
+## Grammar and TeX
 
 - Regarding tenses: You can either follow precicely [these](https://www.dropbox.com/s/d0s4dywiy8s25jd/A%20SHORT-CUT%20TO%20UNDERSTANDING%20TENSES_v3.doc?dl=0) rules for tenses. Or just use present tense throughout your whole paper. The decision is yours, there is nothing in between.
 <p align="center">
@@ -36,5 +36,8 @@ However, be sure to follow the following rules as it makes my life a whole lot e
   </a><br/>
 </p>
 
+- Always use the package cleveref for cross-referencing of figues, chapters, tables, etc. with \Cref
+- If you are referencing a precise figure/table/section, it is spelled in upper case, e.g. Figure 1 (use \Cref, not \cref)
+- If your figure or table is on a different page than the cross-reference: Use \pageref
 - The dash ('—') ('---' in LaTeX) has no spaces before or after.
 - Do not use " for quotes in LaTeX, but `` and ''

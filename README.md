@@ -17,6 +17,13 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 - A scientific paper doesn't mean it takes rocket science to read it. Make it as easy as possible for the reader. Use short sentences, refrain from complicated sentence constructs (like you would do in German).
 - Make sure you have a clear flow through your paper in general, but also each chapter in specific.
 - Examples: Use examples whereever possible to illustrate your statements for the reader. If your paper has one main use case (e.g. application of image mining in the machining industry ;-)) always prefer using this example in each step of your argumentation. Don't switch use cases too often, e.g. medicine - manufacturing - traffic --> <em>Your</em> use case should "shine through" as often as possible.
+
+<p align="center">
+    <img src="https://media.giphy.com/media/ie76dJeem4xBDcf83e/giphy.gif" alt="Hi Thanos">
+  </a><br/>
+</p>
+
+- Your paper will be shortened drastically in the writing and review process. It is inevitable (just as Thanos). Don't take it too hard and don't throw anything away, but either comment it out or use a "trash.tex" file, where you collect unused paragraphs.
 - Refrain from using too many iterations like "First....Second....Third". It's okay to do this a few times, but it is lazy writing.
 - Do not go below subsections (e.g. subsubsection), a 1.2.1 or 1.2.2.3 looks strange in a 20 page paper.
 

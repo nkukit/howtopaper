@@ -41,6 +41,7 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 ## Grammar and TeX
 
 - Use American English (AE).
+- Try not to be colloquial (coll)---i.e., the complete opposite of this howto!
 - Regarding tenses: You can either follow precicely [these](https://www.dropbox.com/s/d0s4dywiy8s25jd/A%20SHORT-CUT%20TO%20UNDERSTANDING%20TENSES_v3.doc?dl=0) rules for tenses. Or just use present tense throughout your whole paper. The decision is yours, there is nothing in between.
 <p align="center">
     <img src="https://media.giphy.com/media/SQgEr5ViRcXYs/giphy.gif" alt="Yoda">

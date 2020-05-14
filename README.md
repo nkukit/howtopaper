@@ -52,3 +52,4 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 - If your figure or table is on a different page than the cross-reference: Use \pageref
 - The dash ('—') ('---' in LaTeX) has no spaces before or after.
 - Do not use " for quotes in LaTeX, but `` and ''
+- You can try to force a figure or table to a certain position by using 'htbp', e.g. \begin{figure}[htbp]

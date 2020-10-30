@@ -1,6 +1,6 @@
 # Some rules to follow when writing a paper...
 
-...at the Applied AI Lab.
+...at the Applied AI in Services Lab.
 
 Welcome! It seems you are writing a paper with my supervision. Congratulations! (Although, we will see if you think it was worth congratulating you on that decision at the end).
 

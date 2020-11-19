@@ -28,6 +28,10 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 - Do not go below subsections (e.g. subsubsection), a 1.2.1 or 1.2.2.3 looks strange in a 20 page paper.
 
 ## Wording
+<p align="center">
+    <img src="https://media.giphy.com/media/SQgEr5ViRcXYs/giphy.gif" alt="Yoda">
+  </a><br/>
+</p>
 - Use phrases like "this research aims to..." cautiously. Either you do something or you do not.
 - Use "that" without preceeding comma if the following information is essential for understanding the sentence. Use ", which" in case the following information is nonessential.
 - Always use "because" instead of "since" to avoid ambiguity
@@ -49,11 +53,6 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 - Use American English (AE).
 - Try not to be colloquial (coll)—i.e., the complete opposite of this howto!
 - Regarding tenses: You can either follow precicely [these](https://www.dropbox.com/s/d0s4dywiy8s25jd/A%20SHORT-CUT%20TO%20UNDERSTANDING%20TENSES_v3.doc?dl=0) rules for tenses. Or just use present tense throughout your whole paper. The decision is yours, there is nothing in between.
-<p align="center">
-    <img src="https://media.giphy.com/media/SQgEr5ViRcXYs/giphy.gif" alt="Yoda">
-  </a><br/>
-</p>
-
 - Always use the package cleveref for cross-referencing of figues, chapters, tables, etc. with \Cref
 - If you are referencing a precise figure/table/section, it is spelled in upper case, e.g. Figure 1 (use \Cref, not \cref)
 - If your figure or table is on a different page than the cross-reference: Use \pageref

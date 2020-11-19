@@ -29,7 +29,7 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 
 ## Wording
 - Use phrases like "this research aims to..." cautiously. Either you do something or you do not.
-- Use "that" without preceeding comma if the following information is essential for understanding the sentence. Use ",which" in case the following information is nonessential.
+- Use "that" without preceeding comma if the following information is essential for understanding the sentence. Use ", which" in case the following information is nonessential.
 - Always use "because" instead of "since" to avoid ambiguity
 - Refrain from writing phrases like "we test this". Be more specific: "we test this relationship."
 

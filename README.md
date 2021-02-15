@@ -27,6 +27,7 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 - Refrain from using too many iterations like "First....Second....Third". It's okay to do this a few times, but it is lazy writing.
 - Do not go below subsections (e.g. subsubsection), a 1.2.1 or 1.2.2.3 looks strange in a 20 page paper.
 - Only use numbered subsections if there are at least three of them. In case of two topics: describe in the beginning of the section what you will present in the two paragraphs but do not number them as subsections.
+- Figure and table captions should be self-containing. 
 
 ## Wording
 <p align="center">

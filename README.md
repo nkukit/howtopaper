@@ -13,7 +13,7 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 
 ## General Writing and Flow
 
-- Don't forget the [reader](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf). Make sure, you take his/her hand and guide him clearly through your thoughts and storyline.
+- Don't forget the [reader](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf). Make sure, you take his/her hand and guide him/her clearly through your thoughts and storyline.
 - A scientific paper doesn't mean it takes rocket science to read it. Make it as easy as possible for the reader. Use short sentences, refrain from complicated sentence constructs (like you would do in German).
 - Make sure you have a clear flow through your paper in general, but also each chapter in specific.
 - Examples: Use examples whereever possible to illustrate your statements for the reader. If your paper has one main use case (e.g. application of image mining in the machining industry ;-)) always prefer using this example in each step of your argumentation. Don't switch use cases too often, e.g. medicine - manufacturing - traffic --> <em>Your</em> use case should "shine through" as often as possible.

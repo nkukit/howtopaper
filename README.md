@@ -1,21 +1,21 @@
 # Some rules to follow when writing a paper...
 
-...at the Applied AI in Services Lab.
+...in collaboration with me :-).
 
-Welcome! It seems you are writing a paper with my supervision. Congratulations! (Although, we will see if you think it was worth congratulating you on that decision at the end).
-
-However, be sure to follow the following rules as it makes my life a whole lot easier!
-
-<p align="center">
-    <img src="https://media.giphy.com/media/3o7aTkjnoAzNaxPes8/giphy.gif" alt="Obey the rules!">
-  </a><br/>
-</p>
+Welcome! It seems you are writing a paper with me! Over the years, I gained some experiences on what constitutes a good paper. I tried to put them together here, which will make your life (and mine ;-) hopefully easier.
 
 ## General Writing and Flow
 
 - Don't forget the [reader](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf). Make sure, you take his/her hand and guide him/her clearly through your thoughts and storyline.
+- This is ESPECIALLY important for the abstract and introduction. Nick Berente has a good guideline for that:
+
+<p align="center">
+    <img src="https://github.com/nkukit/howtopaper/blob/master/image.png" alt="Intro">
+  </a><br/>
+</p>
+
 - A scientific paper doesn't mean it takes rocket science to read it. Make it as easy as possible for the reader. Use short sentences, refrain from complicated sentence constructs (like you would do in German).
-- Make sure you have a clear flow through your paper in general, but also each chapter in specific.
+- Make sure you have a clear flow through your paper in general, but also each chapter in specific. What is the goal of each chapter, how does it contribute to the larger story you are trying to tell?
 - Examples: Use examples whereever possible to illustrate your statements for the reader. If your paper has one main use case (e.g. application of image mining in the machining industry ;-)) always prefer using this example in each step of your argumentation. Don't switch use cases too often, e.g. medicine - manufacturing - traffic --> <em>Your</em> use case should "shine through" as often as possible.
 
 <p align="center">
@@ -27,7 +27,8 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 - Refrain from using too many iterations like "First....Second....Third". It's okay to do this a few times, but it is lazy writing.
 - Do not go below subsections (e.g. subsubsection), a 1.2.1 or 1.2.2.3 looks strange in a 20 page paper.
 - Only use numbered subsections if there are at least three of them. In case of two topics: describe in the beginning of the section what you will present in the two paragraphs but do not number them as subsections.
-- Figure and table captions should be self-containing. 
+- Figure and table captions should be self-containing. Make sure your caption does a good job on describing what the figure shows.
+- Once you are done writing, the "editing" part starts. My best tip here is (as it is hard to correct one own's writing): Edit back to front (!!), paragraph by paragraph (NOT chapter by chapter). This typically works very well to get an outside perspective of your own work.
 
 ## Wording
 <p align="center">
@@ -41,7 +42,7 @@ However, be sure to follow the following rules as it makes my life a whole lot e
 
 ## Terminology
 
-- Always call the same things with the same term. E.g, if your central contribution is an <em>artifact</em>, always call it "artifact" (not software tool, not model, not anything else). Decide on what term fits your idea best and then stick to it.
+- Always call the same things with the same term. E.g, if your central contribution is an <em>artifact</em>, always call it "artifact" (not software tool, not model, not anything else). Decide on what term fits your idea best and then stick to it. This is really important!
 - Use abbreviations consistently. If you introduced "machine learning (ML)", then it is always called "ML" from that point on. However, this does not apply to Abstract, Introduction and Conclusion, where no abbreviations should be used.
 
 ## References

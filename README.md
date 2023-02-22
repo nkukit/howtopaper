@@ -62,3 +62,8 @@ Welcome! It seems you are writing a paper with me! Over the years, I gained some
 - The dash ('—') ('---' in LaTeX) has no spaces before or after.
 - Do not use " for quotes in LaTeX, but `` and ''
 - You can try to force a figure or table to a certain position by using 'htbp', e.g. \begin{figure}[htbp]
+
+## Figures
+
+- Use the same font for figures as you use in the body text. For LaTeX documents, this is mostly https://www.fontsquirrel.com/fonts/latin-modern-roman
+- Always export figures as vector graphics, which are typically PDFs---This way you do not run into resolution issues

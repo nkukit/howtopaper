@@ -49,11 +49,11 @@ The guide is structured into general writing & flow, terminology & wording, refe
 
 ## References
 
-- Try to use references only if you are either writing a statement that needs proof (nothing trivial) or you are naming examples. Try to use one core reference only for a statement which is not too controversial. Only use multiple references when making examples or stating something controversial/provocative.
+- Try to use references only if you are either writing a statement that needs proof (nothing trivial) or you are naming examples. Try to use one core reference only for a statement that is not too controversial. Only use multiple references when making examples or stating something controversial/provocative.
 - If you are citing articles from the arXiv: Check if there is a published version of the same article you can cite (which should always be preferred over citing a preprint).
 - From the MISQ guidelines: "When using citations in text, stress the point of what’s being cited, not who made the citation (for example, “…the Minnesota Golden Gophers basketball team was arguably the best team in the nation (Smith and Jones, 1997)” rather than “Smith and Jones (1997) argue that the Golden Gophers were the best…“)."
 - Use page references only if you are directly citing
-- Talking about references: Try to prefer sources from the same community / the top journals within this community. If you are submitting to a top journal, make sure to prefer sources from this very journal. Try to avoid self-referencing...at least until your manuscript gets accepted ;-)
+- Talking about references: Try to prefer sources from the same community / the top journals within this community. If you are submitting to a top journal, make sure to prefer sources from this very journal. Try to avoid self-referencing---only use it where it really makes sense. Unless you want to artificially push your h-index, that is. 
 - If you are using TeX: If natbib is available as a package (in most of cases that is the default), always use /citep and /citet and do not use /cite, otherwise this sometimes leads to inconsistent formatting of the citations. While we are at it: Always use a tilde before \citep{} instead of a space, e.g. DDPM~\citep{ho21}, to avoid unsightly line breaks between content and source (especially with numerical citation styles).
 
 ## Grammar and Misc TeX advise

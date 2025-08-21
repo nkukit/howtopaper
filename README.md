@@ -4,7 +4,7 @@
 
 Welcome! It seems you are writing a paper with me! Over the years, I gained some experience on what typical mistakes are when it comes to crafting a paper. I tried to put together some best practices here, which will make your life (and mine) hopefully easier.
 
-The guide is structured into general writing & flow, terminology & wording, references, and grammar & misc teX advice.  
+The guide is structured into general writing & flow, terminology & wording, references, and grammar & misc TeX advice.  
 
 ## General Writing & Flow
 
@@ -28,7 +28,7 @@ The guide is structured into general writing & flow, terminology & wording, refe
 - Your paper will be shortened drastically in the writing and review process. It is inevitable (just as Thanos). Don't take it too hard, and don't throw anything away, but either comment it out or use a "trash.tex" file, where you collect unused paragraphs.
 - Refrain from using too many iterations like "First....Second....Third". Doing this a few times is okay, but it is lazy writing.
 - Do not go below subsections (e.g., subsubsection), a 1.2.1 or 1.2.2.3 looks strange in a 20-page paper.
-- Only use numbered subsections if there are at least three of them. In case of two topics: describe in the beginning of the section what you will present in the two paragraphs, but do not number them as subsections.
+- Only use numbered subsections if there are at least three of them. In case of two topics: describe at the beginning of the section what you will present in the two paragraphs, but do not number them as subsections.
 - Figure and table captions should be self-contained. Make sure your caption does a good job of describing what the figure shows.
 - Once you are done writing, the "editing" part starts. My best tip here is (as it is hard to correct one's own writing): Edit back to front (!!), paragraph by paragraph (NOT chapter by chapter). This typically works very well to get an outside perspective of your own work.
 
@@ -54,16 +54,17 @@ The guide is structured into general writing & flow, terminology & wording, refe
 - From the MISQ guidelines: "When using citations in text, stress the point of what’s being cited, not who made the citation (for example, “…the Minnesota Golden Gophers basketball team was arguably the best team in the nation (Smith and Jones, 1997)” rather than “Smith and Jones (1997) argue that the Golden Gophers were the best…“)."
 - Use page references only if you are directly citing
 - Talking about references: Try to prefer sources from the same community / the top journals within this community. If you are submitting to a top journal, make sure to prefer sources from this very journal. Try to avoid self-referencing---only use it where it really makes sense. Unless you want to artificially push your h-index, that is. 
-- If you are using TeX: If natbib is available as a package (in most of cases that is the default), always use /citep and /citet and do not use /cite, otherwise this sometimes leads to inconsistent formatting of the citations. While we are at it: Always use a tilde before \citep{} instead of a space, e.g. DDPM~\citep{ho21}, to avoid unsightly line breaks between content and source (especially with numerical citation styles).
+- If you are using TeX: If natbib is available as a package (in most cases that is the default), always use /citep and /citet and do not use /cite, otherwise this sometimes leads to inconsistent formatting of the citations. While we are at it: Always use a tilde before \citep{} instead of a space, e.g., DDPM~\citep{ho21}, to avoid unsightly line breaks between content and source (especially with numerical citation styles).
+- Do not cite anything from [MDPI](https://www.predatoryjournals.org/news/list-of-all-mdpi-predatory-journals).
 
-## Grammar and Misc TeX advise
+## Grammar and Misc TeX advice
 
 - Use American English (AE)---it is the most typical version of scientific writing.
 - Try not to be colloquial (coll) and adapt an academic writing style. Tools like [DeepLWrite](https://www.deepl.com/de/write?utm_term=&utm_campaign=DE%7CSearch%7CC%7CWrite%7CDSA%7CGerman&utm_source=adwords&utm_medium=ppc&hsa_acc=1083354268&hsa_cam=20494065589&hsa_grp=152392033363&hsa_ad=671244402383&hsa_src=g&hsa_tgt=dsa-2215640289084&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAo7KqBhDhARIsAKhZ4ugwY8NzVO2KxiZZ0DeJIoAgDPAhJNfNmhKKiOQDJ1TqaW1Kx2jyPdMaAsuTEALw_wcB) can help you with that, where you can enable "academic" as a style (top right).
 - Make sure you review your paper before submission with an editing tool like Grammarly (which is free for many universities).
-- Regarding tenses: You can either follow precisely [these](https://www.dropbox.com/s/d0s4dywiy8s25jd/A%20SHORT-CUT%20TO%20UNDERSTANDING%20TENSES_v3.doc?dl=0) rules for tenses. Or just use the present tense throughout your whole paper. The decision is yours; there is nothing in between. My prefered choice is the latter.
+- Regarding tenses: You can either follow precisely [these](https://www.dropbox.com/s/d0s4dywiy8s25jd/A%20SHORT-CUT%20TO%20UNDERSTANDING%20TENSES_v3.doc?dl=0) rules for tenses. Or just use the present tense throughout your whole paper. The decision is yours; there is nothing in between. My preferred choice is the latter.
 - Always use the package cleveref for cross-referencing of figures, chapters, tables, etc., with \Cref
-- If you are referencing a precise figure/table/section, it is spelled in upper case, e.g. Figure 1 (use \Cref, not \cref)
+- If you are referencing a precise figure/table/section, it is spelled in upper case, e.g., Figure 1 (use \Cref, not \cref)
 - If your figure or table is on a different page than the cross-reference: Use \pageref
 - The dash ('—') ('---' in LaTeX) has no spaces before or after.
 - Do not use " for quotes in LaTeX, but `` and ''
